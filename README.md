@@ -10,7 +10,6 @@
 </div>
 <br>
 
-
 ## Overview
 
 The Simple Simulator and Assembler Project provides a set of tools to assemble and simulate simple assembly language programs. This project is designed to help understand the basics of how assemblers and simulators work by providing a hands-on toolkit for assembling and simulating instructions.
@@ -25,10 +24,7 @@ Automated Testing: Comprehensive testing suite to validate the correctness of th
 
 ## Project Structure
 
-
-
 ![Screenshot 2024-06-21 110653](https://github.com/akshatrajsaxena/Simple_Simulator_Assembler_Project/assets/119042958/a8f1df70-d05d-448c-9ccb-f89d8b5880b5)
-
 
 # Getting Started
 
